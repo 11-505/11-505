@@ -55,6 +55,7 @@
             this.Quwife.TabIndex = 1;
             this.Quwife.Text = "查询配偶";
             this.Quwife.UseVisualStyleBackColor = true;
+            this.Quwife.Click += new System.EventHandler(this.Quwife_Click);
             // 
             // Users
             // 
@@ -62,7 +63,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(382, 453);
+            this.ClientSize = new System.Drawing.Size(1189, 495);
             this.Controls.Add(this.Quwife);
             this.Controls.Add(this.Qumembers);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));

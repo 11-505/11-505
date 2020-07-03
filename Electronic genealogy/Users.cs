@@ -21,5 +21,11 @@ namespace Electronic_genealogy
         {
             throw new NotImplementedException();
         }
+
+        private void Quwife_Click(object sender, EventArgs e)
+        {
+            查询配偶 one = new 查询配偶();
+            one.Show();
+        }
     }
 }

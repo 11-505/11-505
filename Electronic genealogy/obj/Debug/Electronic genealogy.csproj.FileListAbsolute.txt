@@ -11,3 +11,18 @@ C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electro
 C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic_genealogy.Geadmins.resources
 C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic_genealogy.Systemadmins.resources
 C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic_genealogy.Users.resources
+E:\c#\505\Electronic genealogy\bin\Debug\Electronic genealogy.exe.config
+E:\c#\505\Electronic genealogy\bin\Debug\Electronic genealogy.exe
+E:\c#\505\Electronic genealogy\bin\Debug\Electronic genealogy.pdb
+E:\c#\505\Electronic genealogy\obj\Debug\Electronic genealogy.csprojAssemblyReference.cache
+E:\c#\505\Electronic genealogy\obj\Debug\Electronic_genealogy.Geadmins.resources
+E:\c#\505\Electronic genealogy\obj\Debug\Electronic_genealogy.MainForm.resources
+E:\c#\505\Electronic genealogy\obj\Debug\Electronic_genealogy.Properties.Resources.resources
+E:\c#\505\Electronic genealogy\obj\Debug\Electronic_genealogy.Systemadmins.resources
+E:\c#\505\Electronic genealogy\obj\Debug\Electronic_genealogy.Users.resources
+E:\c#\505\Electronic genealogy\obj\Debug\Electronic genealogy.csproj.GenerateResource.cache
+E:\c#\505\Electronic genealogy\obj\Debug\Electronic genealogy.csproj.CoreCompileInputs.cache
+E:\c#\505\Electronic genealogy\obj\Debug\Electronic genealogy.exe
+E:\c#\505\Electronic genealogy\obj\Debug\Electronic genealogy.pdb
+E:\c#\505\Electronic genealogy\obj\Debug\Electronic_genealogy.Form1.resources
+E:\c#\505\Electronic genealogy\obj\Debug\Electronic_genealogy.查询配偶.resources
