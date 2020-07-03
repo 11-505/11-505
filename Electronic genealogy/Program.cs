@@ -25,6 +25,7 @@ namespace Electronic_genealogy
             {
                 mainform.Dispose();
                 Application.Run(new Users());
+               
             }
             else if (mainform.DialogResult == DialogResult.OK && MainForm.loginin == 2)
             {

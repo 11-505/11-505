@@ -43,6 +43,7 @@
             this.Qumembers.TabIndex = 0;
             this.Qumembers.Text = "查询成员";
             this.Qumembers.UseVisualStyleBackColor = true;
+            this.Qumembers.Click += new System.EventHandler(this.Qumembers_Click);
             // 
             // Quwife
             // 

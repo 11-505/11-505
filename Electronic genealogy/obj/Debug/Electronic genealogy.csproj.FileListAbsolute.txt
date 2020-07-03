@@ -11,3 +11,17 @@ C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electro
 C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic_genealogy.Geadmins.resources
 C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic_genealogy.Systemadmins.resources
 C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic_genealogy.Users.resources
+E:\新建文件夹 (2)\505TJ\Electronic genealogy\bin\Debug\Electronic genealogy.exe.config
+E:\新建文件夹 (2)\505TJ\Electronic genealogy\bin\Debug\Electronic genealogy.exe
+E:\新建文件夹 (2)\505TJ\Electronic genealogy\bin\Debug\Electronic genealogy.pdb
+E:\新建文件夹 (2)\505TJ\Electronic genealogy\obj\Debug\Electronic genealogy.csprojAssemblyReference.cache
+E:\新建文件夹 (2)\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.Geadmins.resources
+E:\新建文件夹 (2)\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.MainForm.resources
+E:\新建文件夹 (2)\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.Properties.Resources.resources
+E:\新建文件夹 (2)\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.Systemadmins.resources
+E:\新建文件夹 (2)\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.Users.resources
+E:\新建文件夹 (2)\505TJ\Electronic genealogy\obj\Debug\Electronic genealogy.csproj.GenerateResource.cache
+E:\新建文件夹 (2)\505TJ\Electronic genealogy\obj\Debug\Electronic genealogy.csproj.CoreCompileInputs.cache
+E:\新建文件夹 (2)\505TJ\Electronic genealogy\obj\Debug\Electronic genealogy.exe
+E:\新建文件夹 (2)\505TJ\Electronic genealogy\obj\Debug\Electronic genealogy.pdb
+E:\新建文件夹 (2)\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.check.resources

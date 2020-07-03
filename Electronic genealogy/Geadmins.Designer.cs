@@ -48,7 +48,7 @@
             // 
             this.Newmembers.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Newmembers.Font = new System.Drawing.Font("宋体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.Newmembers.Location = new System.Drawing.Point(116, 90);
+            this.Newmembers.Location = new System.Drawing.Point(125, 100);
             this.Newmembers.Name = "Newmembers";
             this.Newmembers.Size = new System.Drawing.Size(150, 50);
             this.Newmembers.TabIndex = 2;
