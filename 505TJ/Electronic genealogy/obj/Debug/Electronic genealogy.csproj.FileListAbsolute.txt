@@ -1,0 +1,28 @@
+C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\bin\Debug\Electronic genealogy.exe.config
+C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\bin\Debug\Electronic genealogy.exe
+C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\bin\Debug\Electronic genealogy.pdb
+C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic genealogy.csprojAssemblyReference.cache
+C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic_genealogy.Properties.Resources.resources
+C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic genealogy.csproj.GenerateResource.cache
+C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic genealogy.csproj.CoreCompileInputs.cache
+C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic genealogy.exe
+C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic genealogy.pdb
+C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic_genealogy.MainForm.resources
+C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic_genealogy.Geadmins.resources
+C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic_genealogy.Systemadmins.resources
+C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic_genealogy.Users.resources
+C:\Users\LJJ\Desktop\505TJ\Electronic genealogy\bin\Debug\Electronic genealogy.exe.config
+C:\Users\LJJ\Desktop\505TJ\Electronic genealogy\bin\Debug\Electronic genealogy.exe
+C:\Users\LJJ\Desktop\505TJ\Electronic genealogy\bin\Debug\Electronic genealogy.pdb
+C:\Users\LJJ\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic genealogy.csprojAssemblyReference.cache
+C:\Users\LJJ\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.Newgenealogy.resources
+C:\Users\LJJ\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.Geadmins.resources
+C:\Users\LJJ\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.MainForm.resources
+C:\Users\LJJ\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.Properties.Resources.resources
+C:\Users\LJJ\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.Systemadmins.resources
+C:\Users\LJJ\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.NewgenealogyT.resources
+C:\Users\LJJ\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.Users.resources
+C:\Users\LJJ\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic genealogy.csproj.GenerateResource.cache
+C:\Users\LJJ\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic genealogy.csproj.CoreCompileInputs.cache
+C:\Users\LJJ\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic genealogy.exe
+C:\Users\LJJ\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic genealogy.pdb
