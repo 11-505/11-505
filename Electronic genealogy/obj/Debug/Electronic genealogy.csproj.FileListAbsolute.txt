@@ -11,3 +11,16 @@ C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electro
 C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic_genealogy.Geadmins.resources
 C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic_genealogy.Systemadmins.resources
 C:\Users\LJJ\Desktop\Electronic genealogy\Electronic genealogy\obj\Debug\Electronic_genealogy.Users.resources
+C:\Users\刘福龙\Desktop\505TJ\Electronic genealogy\bin\Debug\Electronic genealogy.exe.config
+C:\Users\刘福龙\Desktop\505TJ\Electronic genealogy\bin\Debug\Electronic genealogy.exe
+C:\Users\刘福龙\Desktop\505TJ\Electronic genealogy\bin\Debug\Electronic genealogy.pdb
+C:\Users\刘福龙\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.Geadmins.resources
+C:\Users\刘福龙\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.MainForm.resources
+C:\Users\刘福龙\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.Properties.Resources.resources
+C:\Users\刘福龙\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.Systemadmins.resources
+C:\Users\刘福龙\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.Users.resources
+C:\Users\刘福龙\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic_genealogy.Addmember.resources
+C:\Users\刘福龙\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic genealogy.csproj.GenerateResource.cache
+C:\Users\刘福龙\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic genealogy.csproj.CoreCompileInputs.cache
+C:\Users\刘福龙\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic genealogy.exe
+C:\Users\刘福龙\Desktop\505TJ\Electronic genealogy\obj\Debug\Electronic genealogy.pdb

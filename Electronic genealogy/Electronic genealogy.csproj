@@ -78,6 +78,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Addmember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Addmember.Designer.cs">
+      <DependentUpon>Addmember.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Geadmins.resx">
       <DependentUpon>Geadmins.cs</DependentUpon>
     </EmbeddedResource>
@@ -94,6 +100,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Users.resx">
       <DependentUpon>Users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Addmember.resx">
+      <DependentUpon>Addmember.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
