@@ -47,6 +47,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DB.cs" />
+    <Compile Include="Genealogy_DataDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Genealogy_DataDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Momembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Momembers.Designer.cs">
+      <DependentUpon>Momembers.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -78,6 +89,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Momembers.resx">
+      <DependentUpon>Momembers.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Geadmins.resx">
       <DependentUpon>Geadmins.cs</DependentUpon>
     </EmbeddedResource>
@@ -95,6 +109,17 @@
     <EmbeddedResource Include="Users.resx">
       <DependentUpon>Users.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="Genealogy_DataDataSet.xsc">
+      <DependentUpon>Genealogy_DataDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Genealogy_DataDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Genealogy_DataDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Genealogy_DataDataSet.xss">
+      <DependentUpon>Genealogy_DataDataSet.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

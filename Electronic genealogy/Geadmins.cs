@@ -21,5 +21,11 @@ namespace Electronic_genealogy
         {
             throw new NotImplementedException();
         }
+
+        private void Momembers_Click(object sender, EventArgs e)
+        {
+            Momembers momembers = new Momembers();
+            momembers.Show();
+        }
     }
 }

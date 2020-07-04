@@ -43,6 +43,7 @@
             this.Momembers.TabIndex = 1;
             this.Momembers.Text = "修改成员";
             this.Momembers.UseVisualStyleBackColor = true;
+            this.Momembers.Click += new System.EventHandler(this.Momembers_Click);
             // 
             // Newmembers
             // 
