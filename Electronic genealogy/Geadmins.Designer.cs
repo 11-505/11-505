@@ -37,7 +37,7 @@
             // 
             this.Momembers.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Momembers.Font = new System.Drawing.Font("宋体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.Momembers.Location = new System.Drawing.Point(125, 300);
+            this.Momembers.Location = new System.Drawing.Point(125, 325);
             this.Momembers.Name = "Momembers";
             this.Momembers.Size = new System.Drawing.Size(150, 50);
             this.Momembers.TabIndex = 1;
@@ -49,12 +49,13 @@
             // 
             this.Newmembers.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Newmembers.Font = new System.Drawing.Font("宋体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.Newmembers.Location = new System.Drawing.Point(116, 90);
+            this.Newmembers.Location = new System.Drawing.Point(125, 75);
             this.Newmembers.Name = "Newmembers";
             this.Newmembers.Size = new System.Drawing.Size(150, 50);
             this.Newmembers.TabIndex = 2;
             this.Newmembers.Text = "增加成员";
             this.Newmembers.UseVisualStyleBackColor = true;
+            this.Newmembers.Click += new System.EventHandler(this.Newmembers_Click);
             // 
             // Geadmins
             // 
@@ -67,6 +68,7 @@
             this.Controls.Add(this.Momembers);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Geadmins";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "族谱管理员";
             this.ResumeLayout(false);
 

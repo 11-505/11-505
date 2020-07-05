@@ -82,7 +82,7 @@ namespace Electronic_genealogy
                     MessageBox.Show("登陆成功！");
                     this.DialogResult = DialogResult.OK;
                     this.Dispose();
-                    this.Close();
+                    this.Close();               
                 }
                 else if (textBoxID.Text == null)
                 {

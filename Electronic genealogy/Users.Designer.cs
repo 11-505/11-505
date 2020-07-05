@@ -37,24 +37,26 @@
             // 
             this.Qumembers.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Qumembers.Font = new System.Drawing.Font("宋体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.Qumembers.Location = new System.Drawing.Point(125, 100);
+            this.Qumembers.Location = new System.Drawing.Point(125, 75);
             this.Qumembers.Name = "Qumembers";
             this.Qumembers.Size = new System.Drawing.Size(150, 50);
             this.Qumembers.TabIndex = 0;
             this.Qumembers.Text = "查询成员";
             this.Qumembers.UseVisualStyleBackColor = true;
+            this.Qumembers.Click += new System.EventHandler(this.Qumembers_Click);
             // 
             // Quwife
             // 
             this.Quwife.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Quwife.Font = new System.Drawing.Font("宋体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.Quwife.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.Quwife.Location = new System.Drawing.Point(125, 300);
+            this.Quwife.Location = new System.Drawing.Point(125, 325);
             this.Quwife.Name = "Quwife";
             this.Quwife.Size = new System.Drawing.Size(150, 50);
             this.Quwife.TabIndex = 1;
             this.Quwife.Text = "查询配偶";
             this.Quwife.UseVisualStyleBackColor = true;
+            this.Quwife.Click += new System.EventHandler(this.Quwife_Click);
             // 
             // Users
             // 
@@ -67,6 +69,7 @@
             this.Controls.Add(this.Qumembers);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Users";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "用户";
             this.ResumeLayout(false);
 

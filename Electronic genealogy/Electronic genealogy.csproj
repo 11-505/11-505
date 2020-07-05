@@ -46,17 +46,44 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DB.cs" />
-    <Compile Include="Genealogy_DataDataSet.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Genealogy_DataDataSet.xsd</DependentUpon>
+    <Compile Include="Addmember.cs">
+      <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Addmember.designer.cs">
+      <DependentUpon>Addmember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Check.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Check.designer.cs">
+      <DependentUpon>Check.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Checkgenealogy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Checkgenealogy.designer.cs">
+      <DependentUpon>Checkgenealogy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Checkspouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Checkspouse.designer.cs">
+      <DependentUpon>Checkspouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DB.cs" />
     <Compile Include="Momembers.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Momembers.Designer.cs">
+    <Compile Include="Momembers.designer.cs">
       <DependentUpon>Momembers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Newgenealogy.cs" />
+    <Compile Include="Newgenealogy.designer.cs">
+      <DependentUpon>Newgenealogy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewgenealogyT.cs" />
+    <Compile Include="NewgenealogyT.designer.cs">
+      <DependentUpon>NewgenealogyT.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -81,22 +108,40 @@
     <Compile Include="Users.Designer.cs">
       <DependentUpon>Users.cs</DependentUpon>
     </Compile>
-    <Compile Include="login in.cs">
+    <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="login in.Designer.cs">
-      <DependentUpon>login in.cs</DependentUpon>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Momembers.resx">
-      <DependentUpon>Momembers.cs</DependentUpon>
+    <EmbeddedResource Include="Addmember.resx">
+      <DependentUpon>Addmember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Check.resx">
+      <DependentUpon>Check.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Checkgenealogy.resx">
+      <DependentUpon>Checkgenealogy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Checkspouse.resx">
+      <DependentUpon>Checkspouse.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Geadmins.resx">
       <DependentUpon>Geadmins.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="login in.resx">
-      <DependentUpon>login in.cs</DependentUpon>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Momembers.resx">
+      <DependentUpon>Momembers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Newgenealogy.resx">
+      <DependentUpon>Newgenealogy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewgenealogyT.resx">
+      <DependentUpon>NewgenealogyT.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -109,17 +154,6 @@
     <EmbeddedResource Include="Users.resx">
       <DependentUpon>Users.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="Genealogy_DataDataSet.xsc">
-      <DependentUpon>Genealogy_DataDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="Genealogy_DataDataSet.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>Genealogy_DataDataSet.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Genealogy_DataDataSet.xss">
-      <DependentUpon>Genealogy_DataDataSet.xsd</DependentUpon>
-    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

@@ -12,6 +12,8 @@ namespace Electronic_genealogy
 {
     public partial class Momembers : Form
     {
+        public char M_lvpl { get; private set; }
+
         public Momembers()
         {
             InitializeComponent();
@@ -25,8 +27,6 @@ namespace Electronic_genealogy
 
         private void Momembers_Load(object sender, EventArgs e)
         {
-            // TODO: 这行代码将数据加载到表“genealogy_DataDataSet.Members”中。您可以根据需要移动或删除它。
-            this.membersTableAdapter.Fill(this.genealogy_DataDataSet.Members);
 
         }
 
@@ -35,6 +35,21 @@ namespace Electronic_genealogy
             Momembers momembers = new Momembers();
             this.Close();
             momembers.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            DataTable dt = DB.Select("select * from Members where M_id='" + ID.Text + "'");
+            Gender.Text  = dt.Rows[0]["M_sex"].ToString();
+            Datebirth.Text = dt.Rows[0]["M_born"].ToString();
+            NameT.Text = dt.Rows[0]["M_name"].ToString();
+            Datedeath.Text = dt.Rows[0]["M_dead"].ToString();
+            Wherelive.Text = dt.Rows[0]["M_brpl"].ToString();
+            Placebirth.Text = dt.Rows[0]["M_lvpl"].ToString();
+            Ranking.Text = dt.Rows[0]["M_rank"].ToString();
+            Algebra.Text = dt.Rows[0]["M_gnum"].ToString();
+            GenealogyID.Text = dt.Rows[0]["Ge_id"].ToString();
+            FatherID.Text = dt.Rows[0]["M_faid"].ToString();
         }
     }
 }

@@ -27,5 +27,11 @@ namespace Electronic_genealogy
             Momembers momembers = new Momembers();
             momembers.Show();
         }
+
+        private void Newmembers_Click(object sender, EventArgs e)
+        {
+            Addmember addmember = new Addmember();
+            addmember.Show();
+        }
     }
 }

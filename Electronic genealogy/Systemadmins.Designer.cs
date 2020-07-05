@@ -37,23 +37,25 @@
             // 
             this.Momembers.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Momembers.Font = new System.Drawing.Font("宋体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.Momembers.Location = new System.Drawing.Point(125, 300);
+            this.Momembers.Location = new System.Drawing.Point(125, 325);
             this.Momembers.Name = "Momembers";
             this.Momembers.Size = new System.Drawing.Size(150, 50);
             this.Momembers.TabIndex = 1;
             this.Momembers.Text = "修改族谱";
             this.Momembers.UseVisualStyleBackColor = true;
+            this.Momembers.Click += new System.EventHandler(this.Momembers_Click);
             // 
             // Newgenealogy
             // 
             this.Newgenealogy.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Newgenealogy.Font = new System.Drawing.Font("宋体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.Newgenealogy.Location = new System.Drawing.Point(125, 100);
+            this.Newgenealogy.Location = new System.Drawing.Point(125, 75);
             this.Newgenealogy.Name = "Newgenealogy";
             this.Newgenealogy.Size = new System.Drawing.Size(150, 50);
             this.Newgenealogy.TabIndex = 2;
             this.Newgenealogy.Text = "新建族谱";
             this.Newgenealogy.UseVisualStyleBackColor = true;
+            this.Newgenealogy.Click += new System.EventHandler(this.Newgenealogy_Click);
             // 
             // Systemadmins
             // 
@@ -66,6 +68,7 @@
             this.Controls.Add(this.Momembers);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Systemadmins";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "系统管理员";
             this.ResumeLayout(false);
 

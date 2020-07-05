@@ -17,7 +17,6 @@ namespace Electronic_genealogy
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new MainForm());
-
             MainForm mainform = new MainForm();
 
             mainform.ShowDialog();//界面转换
